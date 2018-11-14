@@ -2,7 +2,8 @@
 mainly on machine learning
 
 ## NN - Attention
-* [Attention and Augmented Recurrent Neural Networks, 2016.9](https://distill.pub/2016/augmented-rnns/)
+* [Attention and Augmented Recurrent Neural Networks, 2016.9](https://distill.pub/2016/augmented-rnns/)  
+  > *Neural Turing Machines, Attention Interfaces, Adaptive Computation Time, Neural Programmers*
 * [Attention Is All You Need, 2017.06](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)  
   > *Transformer network architecture proposed*
 
