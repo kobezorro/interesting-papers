@@ -2,6 +2,8 @@
 mainly on machine learning
 
 ## NN - Attention
+* [Neural machine translation by jointly learning to align and translate, 2014.9](https://arxiv.org/pdf/1409.0473.pdf)  
+  > *Attention mechanism originator*
 * [Attention and Augmented Recurrent Neural Networks, 2016.9](https://distill.pub/2016/augmented-rnns/)  
   > *Neural Turing Machines, Attention Interfaces, Adaptive Computation Time, Neural Programmers*
 * [Attention Is All You Need, 2017.06](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)  
