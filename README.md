@@ -2,7 +2,7 @@
 mainly on machine learning
 
 ## LSH
-* [Detecting Near-Duplicates for Web Crawling](http://www2007.cpsc.ucalgary.ca/papers/paper215.pdf)
+* [Detecting Near-Duplicates for Web Crawling, 2007](http://www2007.cpsc.ucalgary.ca/papers/paper215.pdf)
   > to study on
 
 ## NN - Auto-encoder
