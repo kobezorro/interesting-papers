@@ -1,6 +1,10 @@
 # interesting-papers
 mainly on machine learning
 
+## LSH
+* [Detecting Near-Duplicates for Web Crawling](http://www2007.cpsc.ucalgary.ca/papers/paper215.pdf)
+  > to study on
+
 ## NN - Auto-encoder
 * [Auto-Encoding Variational Bayes, 2013.12](https://arxiv.org/pdf/1312.6114.pdf)  
   > *A very mathematical paper for me at least, you need to learn a little bit of variational methods.*  
