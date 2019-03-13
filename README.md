@@ -6,7 +6,7 @@ mainly on machine learning
   > to study on
 
 ## RNN
-* [A review of unsupervised feature learning and deep learning for time-series modeling](http://romisatriawahono.net/lecture/rm/survey/machine%20learning/Langkvist%20-%20Deep%20Learning%20for%20Time%20Series%20Modeling%20-%202014.pdf)
+* [A review of unsupervised feature learning and deep learning for time-series modeling, 2014.1](http://romisatriawahono.net/lecture/rm/survey/machine%20learning/Langkvist%20-%20Deep%20Learning%20for%20Time%20Series%20Modeling%20-%202014.pdf)
   > *An excellent review on time-series models.*
 
 ## NN - Auto-encoder
