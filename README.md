@@ -5,6 +5,10 @@ mainly on machine learning
 * [Detecting Near-Duplicates for Web Crawling, 2007](http://www2007.cpsc.ucalgary.ca/papers/paper215.pdf)
   > to study on
 
+## RNN
+* [A review of unsupervised feature learning and deep learning for time-series modeling](http://romisatriawahono.net/lecture/rm/survey/machine%20learning/Langkvist%20-%20Deep%20Learning%20for%20Time%20Series%20Modeling%20-%202014.pdf)
+  > *An excellent review on time-series models.*
+
 ## NN - Auto-encoder
 * [Auto-Encoding Variational Bayes, 2013.12](https://arxiv.org/pdf/1312.6114.pdf)  
   > *A very mathematical paper for me at least, you need to learn a little bit of variational methods.*  
