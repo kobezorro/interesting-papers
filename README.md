@@ -1,6 +1,14 @@
 # interesting-papers
 mainly on machine learning
 
+## high dense subgraph
+* [FRAUDAR: Bounding Graph Fraud in the Face of Camouflage, 2016](http://www.cs.cmu.edu/~christos/PUBLICATIONS/kdd16-fraudar.pdf)
+  > to study on
+* [M-Zoom: Fast Dense-Block Detection in Tensors with Quality Guarantees, 2016](https://www.cs.cmu.edu/~kijungs/papers/mzoomPKDD2016.pdf)
+  > to study on
+* [D-Cube: Dense-Block Detection in Terabyte-Scale Tensors, 2017](https://www.cs.cmu.edu/~kijungs/papers/dcubeWSDM2017.pdf)
+  > to study on
+
 ## LSH
 * [Detecting Near-Duplicates for Web Crawling, 2007](http://www2007.cpsc.ucalgary.ca/papers/paper215.pdf)
   > to study on
