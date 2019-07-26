@@ -21,6 +21,7 @@ mainly on machine learning
 * [Auto-Encoding Variational Bayes, 2013.12](https://arxiv.org/pdf/1312.6114.pdf)  
   > *A very mathematical paper for me at least, you need to learn a little bit of variational methods.*  
   > *The hidden layer actually is a generative model.*
+* [Adversarial Autoencoders, 2015.11](https://arxiv.org/pdf/1511.05644.pdf)  
 
 ## NN - Attention
 * [Neural machine translation by jointly learning to align and translate, 2014.9](https://arxiv.org/pdf/1409.0473.pdf)  
