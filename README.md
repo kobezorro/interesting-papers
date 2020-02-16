@@ -6,6 +6,8 @@ mainly on machine learning
   > to study on
 * [OpenKE: An Open Toolkit for Knowledge Embedding](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/emnlp2018_openke.pdf)
   > to study on
+* [Learning Entity and Relation Embeddings for Knowledge Graph Completion](https://www.aaai.org/ocs/index.php/AAAI/AAAI15/paper/viewFile/9571/9523)
+  > to study on
 
 ## high dense subgraph
 * [FRAUDAR: Bounding Graph Fraud in the Face of Camouflage, 2016](http://www.cs.cmu.edu/~christos/PUBLICATIONS/kdd16-fraudar.pdf)
