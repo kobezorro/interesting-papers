@@ -1,6 +1,12 @@
 # interesting-papers
 mainly on machine learning
 
+## knowledge graph
+* [Knowledge Graph Completion via Complex Tensor Factorization](https://arxiv.org/abs/1702.06879)
+  > to study on
+* [OpenKE: An Open Toolkit for Knowledge Embedding](http://nlp.csai.tsinghua.edu.cn/~lzy/publications/emnlp2018_openke.pdf)
+  > to study on
+
 ## high dense subgraph
 * [FRAUDAR: Bounding Graph Fraud in the Face of Camouflage, 2016](http://www.cs.cmu.edu/~christos/PUBLICATIONS/kdd16-fraudar.pdf)
   > to study on
